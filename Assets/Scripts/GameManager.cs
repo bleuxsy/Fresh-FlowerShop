@@ -21,11 +21,7 @@ public class GameManager : MonoBehaviour {
   }
 
   public void Action() {
-    // 인자 안에 GameObject scanObj
-    // scanObject = scanObj;
-    // ObjData objData = scanObject.GetComponent<ObjData>();
     talkText.text = Talk(1);
-    // 인자 안에 objData.id
     
     talkPanel.SetActive(isAction);
   }
