@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/LeftChange.cs.meta
+guid: aa311705e5b949645a56fc68c8291ec2
+========
+guid: 7759eaa193a587f47be22ba6a1af152e
+>>>>>>>> seohyun:Assets/Scripts/Game.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
