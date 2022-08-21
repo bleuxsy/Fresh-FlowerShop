@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/AudioPlay.cs.meta
-guid: cb622f5fec463f449825f45c663d508e
-========
 guid: f437b86be24fef54d86ed89e6ae0a16e
->>>>>>>> seohyun:Assets/Scripts/SetVolume.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
