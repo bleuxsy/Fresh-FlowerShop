@@ -740,11 +740,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 846895984}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e3e6092564a68754eba6934ddd761ec7, type: 3}
+  m_Script: {fileID: 11500000, guid: cb622f5fec463f449825f45c663d508e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  masterMixer: {fileID: 24100000, guid: fbb9ecc0adcd0a247872b974fefd0f0c, type: 2}
-  audioSlider: {fileID: 846895986}
 --- !u!1 &929769649
 GameObject:
   m_ObjectHideFlags: 0
