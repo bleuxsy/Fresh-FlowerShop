@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Ribbon.unity
+    path: Assets/Scenes/MG-Ribbon.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MG-Paper.unity
+    guid: b6eedbf5a304534438d755e1b9c673e8
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 425fa4b2843280e4d9097b439fda1088
+  - enabled: 1
+    path: Assets/Scenes/continue.unity
+    guid: 6e20655bd4618734c92d9e1727c5bcb5
+  - enabled: 1
+    path: Assets/Scenes/setting.unity
+    guid: 7debf43c26741cc46afbb39f9273c2c7
   m_configObjects: {}
