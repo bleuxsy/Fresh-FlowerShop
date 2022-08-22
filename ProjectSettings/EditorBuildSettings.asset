@@ -21,6 +21,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: d9f7f9f4015c44bc98296d03c1a2b00d
   - enabled: 1
+    path: Assets/Scenes/Save.unity
+    guid: 52f57e83756eaa845aae7dddd2cdc194
+  - enabled: 1
+    path: Assets/Scenes/Episode.unity
+    guid: 89754b357f60a884282fad9318c44c23
+  - enabled: 1
     path: Assets/Scenes/MG-Memo.unity
     guid: 93e450ca6c0ba3249b5b0663c620c27d
   - enabled: 1
@@ -32,4 +38,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG-Paper.unity
     guid: b6eedbf5a304534438d755e1b9c673e8
+  - enabled: 1
+    path: Assets/Scenes/MG-Loading.unity
+    guid: fc5855ad531628e4db2fb0e0c0d66a53
+  - enabled: 1
+    path: Assets/Scenes/MG-Finish.unity
+    guid: 4813c7e01800925429d91653f8dc7ac0
+  - enabled: 1
+    path: Assets/Scenes/Episode-Clear.unity
+    guid: 2973cf849abee3e45b4f0be1d7b66d4e
   m_configObjects: {}
