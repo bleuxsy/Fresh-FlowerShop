@@ -51,6 +51,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Episode-Clear.unity
     guid: 2973cf849abee3e45b4f0be1d7b66d4e
   - enabled: 1
-    path: Assets/Scenes/Diary-Customer.unity
+    path: Assets/Scenes/Diary01.unity
     guid: c9947b639bcfd7845bc83d271fdac887
+  - enabled: 1
+    path: Assets/Scenes/Diary03.unity
+    guid: b3c91089739e5fe498475a789dafb4e9
   m_configObjects: {}
