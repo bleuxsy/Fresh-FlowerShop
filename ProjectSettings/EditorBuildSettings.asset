@@ -54,6 +54,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Diary01.unity
     guid: c9947b639bcfd7845bc83d271fdac887
   - enabled: 1
+    path: Assets/Scenes/Diary01_2.unity
+    guid: d9412c59a13324549bbaf4b64d80ede7
+  - enabled: 1
     path: Assets/Scenes/Diary03.unity
     guid: b3c91089739e5fe498475a789dafb4e9
+  - enabled: 1
+    path: Assets/Scenes/EndingCredit.unity
+    guid: a6bc243a8a404634895ddba4091927ca
   m_configObjects: {}
